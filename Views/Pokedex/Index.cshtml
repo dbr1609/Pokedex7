@@ -1,0 +1,30 @@
+﻿@model PokedexListViewModel
+@{
+    ViewBag.Title = "Pokedex";
+    int MaxPokemon = int.Parse(Configuration["MaxPokemon"]);
+}
+<h1>Pokedex</h1>
+@{
+    int i = 0;
+}
+<div class="btn-group" role="group" aria-label="Sort">
+    <a asp-action="Index" asp-route-sort="Id" asp-route-sortDirection="@Model.SortDirection" class="btn btn-secondary @(Model.SortField == Pokedex7.Controllers.SortField.Id?"active":"")">Id</a>
+    <a asp-action="Index" asp-route-sort="Name" asp-route-sortDirection="@Model.SortDirection" class="btn btn-secondary @(Model.SortField == Pokedex7.Controllers.SortField.Name?"active":"")">Name</a>
+    <a asp-action="Index" asp-route-sort="Type" asp-route-sortDirection="@Model.SortDirection" class="btn btn-secondary @(Model.SortField == Pokedex7.Controllers.SortField.Type?"active":"")">Type</a>
+</div>
+<div class="btn-group" role="group" aria-label="Sort direction">
+    <a asp-action="Index" asp-route-sort="@Model.SortField" asp-route-sortDirection="ASC" class="btn btn-secondary @(Model.SortDirection == Pokedex7.Controllers.SortDirection.ASC?"active":"")">Ascending</a>
+    <a asp-action="Index" asp-route-sort="@Model.SortField" asp-route-sortDirection="DESC" class="btn btn-secondary @(Model.SortDirection == Pokedex7.Controllers.SortDirection.DESC?"active":"")">Descending</a>
+</div>
+<p></p>
+@foreach (Pokemon p in Model.Pokemons)
+{
+    var url = $"/Images/{p.Id}.png";
+    <a asp-controller="Pokedex" asp-action="Details" asp-route-id="@p.Id"> <img src="@url" /></a>
+    if (i++ > MaxPokemon)
+    {
+        break;
+    }
+}
+<br />
+<b>Page generated: @Model.PageGenerated</b>

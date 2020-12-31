@@ -1,0 +1,74 @@
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\Pokedex3.exe
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\Pokedex3.deps.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\Pokedex3.runtimeconfig.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\Pokedex3.runtimeconfig.dev.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\Pokedex3.dll
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\Pokedex3.pdb
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\Pokedex3.Views.dll
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\Pokedex3.Views.pdb
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.csprojAssemblyReference.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.AssemblyInfoInputs.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.AssemblyInfo.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.csproj.CoreCompileInputs.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.RazorAssemblyInfo.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.RazorAssemblyInfo.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.TagHelpers.input.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.TagHelpers.output.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.RazorCoreGenerate.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Razor\Views\Pokedex\Details.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Razor\Views\Pokedex\Index.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.RazorTargetAssemblyInfo.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.RazorTargetAssemblyInfo.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.Views.pdb
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\staticwebassets\Pokedex3.StaticWebAssets.Manifest.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\staticwebassets\Pokedex3.StaticWebAssets.xml
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.dll
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.pdb
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.genruntimeconfig.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\Pokedex3.csproj.CopyComplete
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\bin\Debug\netcoreapp3.1\pokedex.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pokedex3.styles.css
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\pokedex.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\Pokedex3.exe
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\Pokedex3.deps.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\Pokedex3.runtimeconfig.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\Pokedex3.runtimeconfig.dev.json
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\Pokedex3.dll
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\Pokedex3.pdb
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\Pokedex3.Views.dll
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\bin\Debug\netcoreapp3.1\Pokedex3.Views.pdb
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.csprojAssemblyReference.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.AssemblyInfoInputs.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.AssemblyInfo.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.csproj.CoreCompileInputs.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.RazorAssemblyInfo.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.RazorAssemblyInfo.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\staticwebassets\Pokedex3.StaticWebAssets.Manifest.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\staticwebassets\Pokedex3.StaticWebAssets.xml
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pokedex3.styles.css
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.TagHelpers.input.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.TagHelpers.output.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.RazorCoreGenerate.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Pokedex\Details.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Pokedex\Index.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.RazorTargetAssemblyInfo.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.RazorTargetAssemblyInfo.cs
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.Views.pdb
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.dll
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.pdb
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.genruntimeconfig.cache
+C:\Users\jn1248\OneDrive - ENGIE\Avondschool\Web Frameworks\Pokedex3 - Copy\obj\Debug\netcoreapp3.1\Pokedex3.csproj.CopyComplete

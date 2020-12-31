@@ -1,0 +1,9 @@
+﻿@model List<Pokemon>
+@{
+    ViewBag.Title = "Poketeam";
+}
+<h1>Poketeam</h1>
+@foreach (Pokemon p in Model)
+{
+    <a asp-controller="Pokedex" asp-action="Details" asp-route-id="@p.Id"> <img src="~/images/@(p.Id).png" /></a>
+}
